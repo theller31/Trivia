@@ -2,8 +2,6 @@
 
 A **beginner‑friendly React project** that fetches multiple‑choice questions from the [Open Trivia Database](https://opentdb.com/) and gives users instant feedback.  
 
-→ **Live demo video:** (record your demo and link here)  
-→ **Deployed preview (optional):** https://your-domain.com
 
 ---
 
@@ -133,9 +131,3 @@ Feel free to add Prettier / Husky for commit hooks 🔧.
 
 ---
 
-## 🙌 Credits
-
-* [Open Trivia DB](https://opentdb.com/) for the free question bank.
-* Starter created by **<Your Name>** as part of Coding Temple’s knowledge check.
-
-Happy quizzing!
