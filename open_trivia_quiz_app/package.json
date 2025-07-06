@@ -1,0 +1,26 @@
+{
+  "name": "open-trivia-quiz-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Beginner-friendly React quiz application powered by Open Trivia Database.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint": "eslint ./src"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "react-scripts": "5.0.2"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.1.4",
+    "@testing-library/react": "^14.2.2",
+    "@testing-library/user-event": "^14.7.5",
+    "eslint": "^8.56.0"
+  }
+}
